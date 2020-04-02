@@ -24,3 +24,7 @@ https://towardsdatascience.com/stable-baselines-a-fork-of-openai-baselines-reinf
 3 How to use Keras-RL library for a custom environment 
 
 https://towardsdatascience.com/openai-gym-from-scratch-619e39af121f
+
+
+4 Custom vectorized environment 
+https://github.com/hill-a/stable-baselines/issues/290
