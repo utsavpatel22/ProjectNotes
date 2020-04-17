@@ -8,6 +8,10 @@ Links for decentralized simulation
 
 2 https://answers.ros.org/question/307747/can-i-use-the-same-map-for-multiple-robots-running-move_base/
 
+3 https://github.com/gergia/multiple_turtlebots_real_world
+
+4 https://github.com/gergia/multiple_turtlebots_stage_amcl
+
 
 
 
