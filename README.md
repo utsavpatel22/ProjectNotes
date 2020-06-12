@@ -37,3 +37,8 @@ https://github.com/hill-a/stable-baselines/issues/290
 Link to access frames from intel realsense D435 camera
 
 1 https://github.com/IntelRealSense/librealsense/issues/2731
+
+
+Link to solve error "AttributeError: '_NamespacePath' object has no attribute 'sort'"
+
+1 https://stackoverflow.com/questions/47955397/pip3-error-namespacepath-object-has-no-attribute-sort
