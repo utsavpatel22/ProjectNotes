@@ -42,3 +42,8 @@ Link to access frames from intel realsense D435 camera
 Link to solve error "AttributeError: '_NamespacePath' object has no attribute 'sort'"
 
 1 https://stackoverflow.com/questions/47955397/pip3-error-namespacepath-object-has-no-attribute-sort
+
+
+Link for python broadcasting 
+
+1 https://stackoverflow.com/questions/48359053/subtract-each-row-of-matrix-a-from-every-row-of-matrix-b-without-loops
