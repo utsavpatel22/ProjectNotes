@@ -47,3 +47,7 @@ Link to solve error "AttributeError: '_NamespacePath' object has no attribute 's
 Link for python broadcasting 
 
 1 https://stackoverflow.com/questions/48359053/subtract-each-row-of-matrix-a-from-every-row-of-matrix-b-without-loops
+
+Running GUI applications in Docker 
+
+1 https://medium.com/@SaravSun/running-gui-applications-inside-docker-containers-83d65c0db110
